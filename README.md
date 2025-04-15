@@ -1,4 +1,4 @@
-# AI Recruiter
+# RecruitlyAI
 
 	A smart recruitment platform designed to assist HR teams and recruiters in identifying the best-fit candidates for open roles. Leveraging advanced AI, it analyzes resumes in relation to job descriptions, delivering a clear match score and in-depth insights. This helps simplify and speed up the hiring process with more confidence and precision.
 
@@ -160,13 +160,13 @@ streamlit run app.py
 5. View the assessment results, sorted by qualified and non-qualified candidates
 6. Download the talent assessment report as a CSV file if needed
 
-## Benefits for Recruiters
+## Why Recruiters Love It
 
-- **Time Savings**: Reduce manual resume screening time by up to 75%
-- **Objective Evaluation**: Standardize your candidate assessment process
-- **Detailed Insights**: Get comprehensive feedback on each candidate's strengths and areas for improvement
-- **Customizable Criteria**: Adjust qualification thresholds based on your specific needs
-- **Seamless Integration**: Works with your existing recruitment workflow and ATS
+- **Save Time**: Cut down on resume screening by as much as 75%
+- **Fair & Consistent**: Bring objectivity to your hiring process with standardized candidate evaluations
+- **Actionable Insights**: Receive detailed reports highlighting each candidate’s strengths and growth areas
+- **Flexible Criteria**: Tailor qualification benchmarks to match your hiring goals
+- **Easy Integration**: Fits right into your current recruitment tools and ATS workflow
 
 ## Note
 
